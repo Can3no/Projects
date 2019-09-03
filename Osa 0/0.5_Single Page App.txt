@@ -1,0 +1,2 @@
+selain->palvelin: JSON https://fullstack-exampleapp.herokuapp.com/new_note_spa
+palvelin-->selain Get raaka data
