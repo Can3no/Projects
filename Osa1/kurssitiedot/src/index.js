@@ -10,13 +10,22 @@ const App = () => {
   const part3 = 'State of a component'
   const exercises3 = 14
 
+  const Content = ... {
+    return (
+      <div>
+        <Part part1/>
+        <Part part2/>
+        <Part part3/>
+      </div>
+    )
+  }
+
   return (
     <div>
     <Header course={course} />
-    <Content ... />
-    <Total ... />
+    <Content  />
+    <Total />
     </div>
-  )
   
     <div>
       <h1>{course}</h1>
